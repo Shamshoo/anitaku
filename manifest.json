@@ -3,7 +3,7 @@
     "name": "Anitaku Streaming Provider",
     "description": "An online streaming provider extension for Anitaku",
     "manifestURI": "https://raw.githubusercontent.com/Shamshoo/anitaku/refs/heads/main/manifest.json",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "author": "Shamshoo",
     "type": "onlinestream-provider",
     "language": "typescript",
